@@ -1,7 +1,7 @@
 package com.shockrui.model.dto.question;
 
 
-import com.shockrui.exception.common.PageRequest;
+import com.shockrui.common.PageRequest;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
@@ -11,8 +11,8 @@ import java.util.List;
 /**
  * 查询请求
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @author <a href="https://github.com/lishockrui">程序员鱼皮</a>
+ * @from <a href="https://shockrui.icu">编程导航知识星球</a>
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

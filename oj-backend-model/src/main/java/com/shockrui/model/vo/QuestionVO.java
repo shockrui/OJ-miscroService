@@ -1,8 +1,9 @@
 package com.shockrui.model.vo;
 
+
 import cn.hutool.json.JSONUtil;
-import com.yupi.yuojbackendmodel.model.dto.question.JudgeConfig;
-import com.yupi.yuojbackendmodel.model.entity.Question;
+import com.shockrui.model.dto.question.JudgeConfig;
+import com.shockrui.model.entity.Question;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;
 
